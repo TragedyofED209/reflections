@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+You're starting or connecting the repository to git for history tracking. And it needs to be done to communicate with git. 
