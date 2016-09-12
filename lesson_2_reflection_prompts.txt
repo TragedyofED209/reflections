@@ -2,3 +2,5 @@ What happens when you initialize a repository? Why do you need to do it?
 You're starting or connecting the repository to git for history tracking. And it needs to be done to communicate with git. 
 
 how can you use the staging area to make sure you have one commit per logical change? 
+
+what are some situations when branches would be helpful in keeping your history organized? how would brances help? with mulitple devs working on a single project. 
