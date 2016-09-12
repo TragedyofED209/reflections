@@ -3,4 +3,6 @@ You're starting or connecting the repository to git for history tracking. And it
 
 how can you use the staging area to make sure you have one commit per logical change? 
 
-what are some situations when branches would be helpful in keeping your history organized? how would brances help? with mulitple devs working on a single project. 
+what are some situations when branches would be helpful in keeping your history organized? how would brances help? with mulitple devs working on a single project.
+
+how do the diagrams help you visualize the branch structure? by connecting branches to commits 
