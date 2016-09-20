@@ -6,3 +6,5 @@ Why might you want to always pull changes manually rather than having Git auto s
 Describe the differences between forks, clones and branches. When would you use one instad of another? Fork is a clone of an existing repository that includes all original files but won't include newer changes by the original author. Clone is a copy of an existing repository. Branch is a version of a repository. 
 
 what is the benefit of having a copy of the last known state of the remote stored locally? to roll back
+
+how would you collaborate without using Git or Github? What would be easier, and what would be harder?
